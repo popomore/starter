@@ -5,7 +5,7 @@ prose:
   rooturl: '_posts'
   siteurl: 'http://popomore.github.io/starter/'
   relativeLinks: 'http://popomore.github.io/starter/links.jsonp'
-  media: 'media'
+  media: 'img'
   metadata:
     _posts:
       - name: "category"
